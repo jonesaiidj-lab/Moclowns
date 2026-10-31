@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BREAKING: Killer Clown Sightings Near Pierce City | Southwest Missouri News</title>
+    <style>
+        * { 
+            margin: 0; 
+            padding: 0; 
+            box-sizing: border-box; 
+        }
+        body { 
+            font-family: Georgia, 'Times New Roman', serif; 
+            background: #111; 
+            color: #e0e0e0; 
+            line-height: 1.6; 
+        }
+        .top-bar { 
+            background: #8b0000; 
+            color: white; 
+            text-align: center; 
+            padding: 8px; 
+            font-size: 14px; 
+            font-weight: bold; 
+            letter-spacing: 1px; 
+        }
+        header { 
+            background: #1a1a1a; 
+            border-bottom: 4px solid #8b0000; 
+            padding: 20px 0; 
+        }
+        .logo { 
+            text-align: center; 
+            font-size: 32px; 
+            font-weight: bold; 
+            color: #fff; 
+        }
+        .logo span { 
+            color: #8b0000; 
+        }
+        .tagline { 
+            text-align: center; 
+            font-size: 13px; 
+            color: #aaa; 
+            margin-top: 4px; 
+        }
+        .breaking { 
+            background: #8b0000; 
+            color: white; 
+            text-align: center; 
+            padding: 12px; 
+            font-size: 18px; 
+            font-weight: bold; 
+            animation: pulse 1.5s infinite; 
+        }
+        @keyframes pulse { 
+            0% { opacity: 1; } 
+            50% { opacity: 0.7; } 
+            100% { opacity: 1; } 
+        }
+        .container { 
+            max-width: 900px; 
+            margin: 0 auto; 
+            padding: 30px 20px; 
+        }
+        h1 { 
+            font-size: 36px; 
+            color: #fff; 
+            margin-bottom: 10px; 
+            line-height: 1.2; 
+        }
+        .meta { 
+            color: #999; 
+            font-size: 14px; 
+            margin-bottom: 25px; 
+            border-bottom: 1px solid #333; 
+            padding-bottom: 15px; 
+        }
+        .article p { 
+            margin-bottom: 18px; 
+            font-size: 18px; 
+            color: #ccc;
+        }
+        .warning-box { 
+            background: #2a0000; 
+            border: 3px solid #8b0000; 
+            padding: 20px; 
+            margin: 30px 0; 
+            border-radius: 4px; 
+        }
+        .warning-box h2 { 
+            color: #ff4444; 
+            margin-bottom: 10px; 
+        }
+        .quote { 
+            background: #1f1f1f; 
+            border-left: 5px solid #8b0000; 
+            padding: 15px 20px; 
+            margin: 25px 0; 
+            font-style: italic; 
+        }
+        .sightings { 
+            background: #1a1a1a;
+            padding: 20px;
+            border-radius: 4px;
+            margin-top: 20px;
+        }
+        .sightings h3 {
+            color: #fff;
+            margin-bottom: 10px;
+        }
+        .footer {
+            text-align: center;
+            padding: 40px 20px;
+            font-size: 12px;
+            color: #666;
+            border-top: 1px solid #222;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="top-bar">SOUTHWEST MISSOURI LOCAL ALERTS</div>
+    
+    <header>
+        <div class="logo">SWMISSOURI<span>NEWS</span></div>
+        <div class="tagline">Your trusted source for local breaking updates</div>
+    </header>
+
+    <div class="breaking">⚠️ BREAKING NEWS: ONGOING INVESTIGATION ⚠️</div>
+
+    <div class="container">
+        <h1>Multiple "Killer Clown" Sightings Reported Near Pierce City Boundaries</h1>
+        <div class="meta">Published: October 31, 2026 | By Local News Desk</div>
+
+        <div class="article">
+            <p><strong>PIERCE CITY, MO</strong> — Local authorities are urging residents to remain vigilant following a sudden spike in emergency calls reporting individuals dressed in stylized, intimidating clown attire lurking near dark intersections and tree lines.</p>
+            
+            <p>The initial call came in late yesterday evening when a motorist spotted an individual holding what appeared to be prop items near the edge of town. Within hours, two additional calls were placed by residents noticing similar individuals standing perfectly still beneath broken streetlights.</p>
+
+            <div class="warning-box">
+                <h2>⚠️ Safety Advisory Issued</h2>
+                <p>Law enforcement advises all residents in the Pierce City area to keep outdoor lighting illuminated, lock all ground-floor windows, and avoid approaching any individuals wearing masks or unusual costuming in unlit areas. Report any suspicious behavior immediately.</p>
+            </div>
+
+            <div class="quote">
+                "It didn't move or say anything. It just stood right on the edge of the property line under the trees, watching the house. By the time the headlights hit the spot directly, it had vanished back into the dark."
+            </div>
+
+            <div class="sightings">
+                <h3>Reported Hotspots:</h3>
+                <ul>
+                    <li>Highway 97 Northbound corridor</li>
+                    <li>Wooded areas adjacent to local residential streets</li>
+                    <li>Unlit rural intersections just outside city limits</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        © 2026 Southwest Missouri News Network. All rights reserved. 
+    </div>
+
+</body>
+</html>
+
